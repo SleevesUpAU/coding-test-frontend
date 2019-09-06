@@ -25,6 +25,8 @@ In the application, users can do the following:
 
 The whole project including the source code, tests and simple documentation about how to run the program
 
+Perferably, send us a link to a public repository including the above
+
 ## Expectations
 
 We're not just looking for any old solution that would solve the problem. We're looking for:
